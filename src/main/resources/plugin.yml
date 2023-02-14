@@ -1,0 +1,7 @@
+name: TimerPlugin
+version: '${project.version}'
+main: plugin.plugin.Plugin
+api-version: 1.19
+
+commands:
+  timer:
